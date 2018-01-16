@@ -2,7 +2,7 @@
 {
     internal static class ContentConstants
     {
-        public const string AppveyorNugetBuild = "appveyor_nuget.zip";
+        public const string AppveyorNugetBuild = "appveyor_nuget_01.zip";
         public const string NugetConfig = "nuget_config.zip";
     }
 }
